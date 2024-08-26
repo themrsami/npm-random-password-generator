@@ -1,0 +1,16 @@
+{
+  "name": "random-password-generator-future-generation",
+  "version": "1.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "themrsami",
+  "license": "ISC",
+  "description": "A package to generate random passwords based on given criteria.",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
